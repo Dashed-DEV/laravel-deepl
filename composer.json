@@ -23,7 +23,7 @@
     },
     "require" : {
         "php" : "^8.2",
-        "guzzlehttp/guzzle" : "7.8",
+        "guzzlehttp/guzzle" : "^7.8",
         "chriskonnertz/deeply" : "^2.2",
         "justraviga/laravel-langman" : "^0.1"
     },
